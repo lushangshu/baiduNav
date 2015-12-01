@@ -1,0 +1,8 @@
+[
+ {
+    "name":"moduleDemo",
+    "class":"UZModuleDemo",
+    "methods":["showAlert"],
+    "launchClassMethod":"launch"
+ }
+]
